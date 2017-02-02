@@ -8,8 +8,8 @@ DB_HOST_BACKUP =''
 DB_USER_BACKUP = ''
 DB_USER_PASSWORD_BACKUP = ''
 DB_NAME_BACKUP = ''
-COPY_BACKUP_PATH = ''
 BACKUP_PATH = ''
+COPY_BACKUP_PATH = ''
 
 DATETIME = time.strftime('%Y%m%d-%H%M%S')
 print ("DATETIME: " + DATETIME + "\n")
