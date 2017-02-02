@@ -10,3 +10,4 @@ DB_NAME_BACKUP = 'dbname'
 BACKUP_PATH = '/home/user/dbname/'
 COPY_BACKUP_PATH = '/home/user/gunzip/dbname/'
 ```
+Note : The `/` at the end of `BACKUP_PATH` and `COPY_BACKUP_PATH` are **important**.
